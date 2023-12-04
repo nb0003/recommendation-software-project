@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+#git init project.py 
+#git add FILENAME
+#git commit -m "MESSAGE"
